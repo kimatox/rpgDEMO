@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"world map","order":1,"parentId":0,"scrollX":1281.6,"scrollY":1387.2},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":1424,"scrollY":805.3333333333334},
+{"id":3,"expanded":false,"name":"diner","order":3,"parentId":2,"scrollX":1445.3333333333333,"scrollY":826.6666666666666}
 ]
