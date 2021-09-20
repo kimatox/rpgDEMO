@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"world map","order":1,"parentId":0,"scrollX":1281.6,"scrollY":1387.2},
-{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":1532.3999999999999,"scrollY":1077},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":1479.6,"scrollY":861},
 {"id":3,"expanded":false,"name":"diner","order":3,"parentId":2,"scrollX":1445.3333333333333,"scrollY":826.6666666666666}
 ]
