@@ -1,10 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"world map","order":1,"parentId":0,"scrollX":1178,"scrollY":886},
-{"id":2,"expanded":true,"name":"Town1","order":2,"parentId":0,"scrollX":1068,"scrollY":2044},
-{"id":3,"expanded":false,"name":"Town1 Diner","order":3,"parentId":2,"scrollX":1084,"scrollY":620},
-{"id":4,"expanded":true,"name":"Town1 Inn 1F","order":4,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Town1 Inn 2F","order":5,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":true,"name":"Town1 ItemShop","order":6,"parentId":2,"scrollX":1084,"scrollY":620},
-{"id":7,"expanded":true,"name":"Town1 TownChiefMansion","order":7,"parentId":2,"scrollX":1068,"scrollY":1300}
+{"id":1,"expanded":true,"name":"world map","order":1,"parentId":0,"scrollX":1281.6,"scrollY":885.5999999999999},
+{"id":2,"expanded":true,"name":"Town1","order":2,"parentId":0,"scrollX":1812,"scrollY":1676},
+{"id":3,"expanded":false,"name":"Town1 Diner","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Town1 Inn 1F","order":4,"parentId":2,"scrollX":1084,"scrollY":620},
+{"id":5,"expanded":false,"name":"Town1 Inn 2F","order":5,"parentId":4,"scrollX":650.4,"scrollY":372},
+{"id":6,"expanded":true,"name":"Town1 ItemShop","order":6,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"Town1 TownChiefMansion","order":7,"parentId":2,"scrollX":1136,"scrollY":1280},
+{"id":8,"expanded":false,"name":"Armor Shop","order":9,"parentId":2,"scrollX":1084,"scrollY":620},
+null,
+null,
+null,
+null,
+{"id":13,"expanded":false,"name":"Town1 WeaponShop","order":8,"parentId":2,"scrollX":832,"scrollY":640}
 ]
