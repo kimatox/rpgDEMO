@@ -1,16 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":1782,"scrollY":602.4},
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":956.4,"scrollY":1605.6},
 {"id":2,"expanded":true,"name":"Town1","order":4,"parentId":0,"scrollX":2048,"scrollY":1580},
-{"id":3,"expanded":false,"name":"Town1 Diner","order":5,"parentId":2,"scrollX":1786.909090909091,"scrollY":1049.4545454545455},
-{"id":4,"expanded":false,"name":"Town1 Inn 1F","order":6,"parentId":2,"scrollX":813,"scrollY":465},
+{"id":3,"expanded":false,"name":"Town1 Diner","order":5,"parentId":2,"scrollX":650.4,"scrollY":372},
+{"id":4,"expanded":false,"name":"Town1 Inn 1F","order":6,"parentId":2,"scrollX":650.4,"scrollY":372},
 {"id":5,"expanded":false,"name":"Town1 Inn 2F","order":7,"parentId":4,"scrollX":650.4,"scrollY":372},
-{"id":6,"expanded":true,"name":"Town1 ItemShop","order":8,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Town1 ItemShop","order":8,"parentId":2,"scrollX":650.4,"scrollY":372},
 {"id":7,"expanded":true,"name":"Town1 TownChiefMansion","order":9,"parentId":2,"scrollX":1136,"scrollY":1280},
 {"id":8,"expanded":false,"name":"Town1 ArmorShop","order":11,"parentId":2,"scrollX":813,"scrollY":465},
 {"id":9,"expanded":true,"name":"INTRO","order":2,"parentId":1,"scrollX":813,"scrollY":465},
-{"id":10,"expanded":false,"name":"Town0 OldLadyHouse","order":13,"parentId":11,"scrollX":813,"scrollY":465},
-{"id":11,"expanded":true,"name":"Town0","order":12,"parentId":0,"scrollX":1281.6,"scrollY":984},
-{"id":12,"expanded":false,"name":"Seacoast - Cutscene","order":3,"parentId":9,"scrollX":972,"scrollY":706.5},
+{"id":10,"expanded":false,"name":"Town0 OldLadyHouse","order":13,"parentId":11,"scrollX":712,"scrollY":450.6666666666667},
+{"id":11,"expanded":true,"name":"Town0","order":12,"parentId":0,"scrollX":640.8,"scrollY":506.4},
+{"id":12,"expanded":false,"name":"Seacoast - Cutscene","order":3,"parentId":9,"scrollX":712,"scrollY":413.3333333333333},
 {"id":13,"expanded":false,"name":"Town1 WeaponShop","order":10,"parentId":2,"scrollX":832,"scrollY":640}
 ]
