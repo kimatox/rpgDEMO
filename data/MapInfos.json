@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":1602,"scrollY":1915.5},
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":1422,"scrollY":1062.6},
 {"id":2,"expanded":true,"name":"Town1","order":6,"parentId":0,"scrollX":1516,"scrollY":1668},
 {"id":3,"expanded":false,"name":"Town1 Bar","order":7,"parentId":2,"scrollX":982.8,"scrollY":482.4},
 {"id":4,"expanded":false,"name":"Town1 Inn 1F","order":8,"parentId":2,"scrollX":982.8,"scrollY":482.4},
@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":true,"name":"INTRO","order":2,"parentId":1,"scrollX":982.8,"scrollY":482.4},
 {"id":10,"expanded":false,"name":"Town0 OldLadyHouse","order":15,"parentId":11,"scrollX":973.1999999999999,"scrollY":621.6},
 {"id":11,"expanded":true,"name":"Town0","order":14,"parentId":0,"scrollX":712,"scrollY":711.3333333333334},
-{"id":12,"expanded":false,"name":"Seacoast - Cutscene","order":3,"parentId":9,"scrollX":973.1999999999999,"scrollY":861.5999999999999},
+{"id":12,"expanded":false,"name":"Seacoast - Cutscene","order":3,"parentId":9,"scrollX":720,"scrollY":802.1999999999999},
 {"id":13,"expanded":false,"name":"Town1 WeaponShop","order":12,"parentId":2,"scrollX":2365.090909090909,"scrollY":1402.909090909091},
 {"id":14,"expanded":false,"name":"Dungeon 1 Dark Forest 0 (CE)","order":24,"parentId":0,"scrollX":973.1999999999999,"scrollY":1297.2},
 {"id":15,"expanded":false,"name":"Dungeon 0 Seacoast","order":23,"parentId":17,"scrollX":973.1999999999999,"scrollY":1197.6},
@@ -32,6 +32,6 @@ null,
 {"id":30,"expanded":false,"name":"Dungeon 2-5","order":32,"parentId":26,"scrollX":1300.8,"scrollY":771.5999999999999},
 {"id":31,"expanded":false,"name":"Dungeon 2-6","order":33,"parentId":26,"scrollX":1858.2857142857142,"scrollY":1102.2857142857142},
 {"id":32,"expanded":false,"name":"Dungeon 2-7","order":34,"parentId":26,"scrollX":1300.8,"scrollY":771.5999999999999},
-{"id":33,"expanded":true,"name":"Orcs Encounter - Cutscene","order":4,"parentId":1,"scrollX":1626,"scrollY":964.5},
-{"id":34,"expanded":false,"name":"Orcs Escape - Cutscene","order":5,"parentId":33,"scrollX":1626,"scrollY":964.5}
+{"id":33,"expanded":true,"name":"Orcs Encounter - Cutscene","order":4,"parentId":1,"scrollX":729.6,"scrollY":541.8},
+{"id":34,"expanded":false,"name":"Orcs Escape - Cutscene","order":5,"parentId":33,"scrollX":729.6,"scrollY":541.8}
 ]
