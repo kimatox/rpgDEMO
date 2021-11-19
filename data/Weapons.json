@@ -5,5 +5,5 @@ null,
 {"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
 {"id":5,"animationId":6,"description":"Kiếm vip pro, nạp để nhận.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Kiếm 7 màu","note":"","params":[0,0,500,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":6,"animationId":6,"description":"Thanh kiếm của 1 trong các dũng sĩ huyền thoại","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":97,"name":"Kiếm thánh","note":"","params":[0,0,300,0,0,0,0,20],"price":0,"wtypeId":0}
+{"id":6,"animationId":6,"description":"Thanh kiếm của 1 trong các dũng sĩ huyền thoại","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":97,"name":"Kiếm thánh","note":"","params":[0,0,300,0,0,0,0,20],"price":0,"wtypeId":2}
 ]
