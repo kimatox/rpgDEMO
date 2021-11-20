@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ken","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ki","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ki","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lit ","nickname":"","note":"","profile":""}
 ]
