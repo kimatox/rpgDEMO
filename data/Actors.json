@@ -2,5 +2,5 @@
 null,
 {"id":1,"battlerName":"Ken","characterIndex":0,"characterName":"Ken","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Ken","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ken","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Ki","characterIndex":0,"characterName":"Ki","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ki","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Ki","nickname":"Kim","note":"","profile":"I love this fast. "},
-{"id":3,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lit ","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lis","nickname":"","note":"","profile":""}
 ]
