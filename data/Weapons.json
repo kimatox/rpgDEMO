@@ -1,9 +1,8 @@
 [
 null,
-{"id":1,"animationId":6,"description":"Kiếm đơn nhẹ, dành cho tân thủ.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Kiếm đồng","note":"","params":[0,0,50,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
-{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
-{"id":5,"animationId":38,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Găng Tay Của Thanos","note":"","params":[0,0,500,0,0,0,0,0],"price":500,"wtypeId":11},
-{"id":6,"animationId":6,"description":"Thanh kiếm của 1 trong các dũng sĩ huyền thoại","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":97,"name":"Kiếm thánh","note":"","params":[0,0,300,0,0,0,0,20],"price":0,"wtypeId":2}
+{"id":1,"animationId":6,"description":"Dao găm nhỏ phù hợp để đi rừng.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Dao Găm Nhỏ","note":"","params":[0,0,10,0,0,0,10,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":1,"description":"Găng tay được làm từ da thú.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Găng Tay Da","note":"","params":[10,0,10,0,0,0,0,0],"price":0,"wtypeId":11},
+{"id":3,"animationId":6,"description":"Dao găm được làm từ sắt.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Dao Găm Sắt","note":"","params":[0,0,50,0,0,0,30,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":1,"description":"Găng tay đấm được làm từ sắt.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Găng Tay Sắt","note":"","params":[30,0,50,0,0,0,0,0],"price":0,"wtypeId":11},
+{"id":5,"animationId":38,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Găng Tay Của Thanos","note":"","params":[0,0,500,0,0,0,0,0],"price":500,"wtypeId":11}
 ]
