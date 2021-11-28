@@ -35,7 +35,7 @@ null,
 {"id":33,"expanded":true,"name":"Orcs Encounter - Cutscene","order":4,"parentId":1,"scrollX":1182.5454545454545,"scrollY":701.4545454545455},
 {"id":34,"expanded":false,"name":"Orcs Escape - Cutscene","order":5,"parentId":33,"scrollX":811,"scrollY":462},
 {"id":35,"expanded":false,"name":"Dungeon 1 Basement","order":28,"parentId":24,"scrollX":1445.3333333333333,"scrollY":857.3333333333334},
-{"id":36,"expanded":false,"name":"Dungeon 3 Abandon Castle","order":36,"parentId":0,"scrollX":1601,"scrollY":1109},
+{"id":36,"expanded":false,"name":"Dungeon 3 Abandon Castle","order":36,"parentId":0,"scrollX":1601,"scrollY":1243},
 {"id":37,"expanded":false,"name":"Castle","order":37,"parentId":0,"scrollX":1601,"scrollY":1199},
 {"id":38,"expanded":false,"name":"Snow Castle","order":38,"parentId":0,"scrollX":1601,"scrollY":993}
 ]
