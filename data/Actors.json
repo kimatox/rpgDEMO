@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Ken","characterIndex":0,"characterName":"Ken","classId":1,"equips":[0,1,2,3,4],"faceIndex":0,"faceName":"Ken","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ken","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Ki","characterIndex":0,"characterName":"Ki","classId":2,"equips":[0,1,2,3,4],"faceIndex":0,"faceName":"Ki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ki","nickname":"Kim","note":"","profile":"I love this fast. "},
-{"id":3,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[8,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[{"code":31,"dataId":2,"value":1},{"code":31,"dataId":3,"value":1},{"code":31,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Lis","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Ken","characterIndex":0,"characterName":"Ken","classId":1,"equips":[0,1,2,3,4],"faceIndex":0,"faceName":"Ken","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ken","nickname":"Ken","note":"","profile":""},
+{"id":2,"battlerName":"Ki","characterIndex":0,"characterName":"Ki","classId":2,"equips":[0,1,2,3,4],"faceIndex":0,"faceName":"Ki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sorakado Kimato ","nickname":"Kim","note":"","profile":"I love this fast. "},
+{"id":3,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[8,0,0,0,0],"faceIndex":5,"faceName":"Package1","traits":[{"code":31,"dataId":2,"value":1},{"code":31,"dataId":3,"value":1},{"code":31,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Lis Star ","nickname":"Lis","note":"","profile":""},
+{"id":4,"battlerName":"Package1_2","characterIndex":1,"characterName":"Package1","classId":4,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Package1","traits":[{"code":31,"dataId":8,"value":1},{"code":31,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Sarya Weawenys","nickname":"Sarya","note":"","profile":"inh linh của khu rừng. Đó là tất cả những gì mà chúng ta biết về cô ấy..."}
 ]
